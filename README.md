@@ -79,29 +79,3 @@ The goal is to analyze **customer purchase patterns, review behavior, and segmen
 
 ---
 
-## 🚀 **How to Reproduce**
-
-1. Import `Customer_Behaviour.sql` into **MySQL Workbench**.
-2. Run all cells in `data_operation.ipynb` to clean and export the data.
-3. Open `customer_behavior_dashboard.pbix` in **Power BI Desktop**.
-4. Explore the dashboard or view `customer_behavior_dashboard - Power BI.pdf` for static insights.
-5. Optionally, upload the dataset and dashboard to **Power BI Online Workspace**.
-
----
-
-## 🖼️ **Dashboard Preview**
-
-📎 See: `customer_behavior_dashboard - Power BI.pdf`
-
----
-
-## 👤 **Author**
-
-**Shreyash Dongare**
-💻 Data Analyst & Business Intelligence Enthusiast
-📍 Pune, India
-✉️ *[Add your professional email or LinkedIn here]*
-
----
-
-Would you like me to format this as **GitHub-ready Markdown** (with emojis, code blocks, and visual section dividers) so you can directly upload it as `README.md` to your repo?
